@@ -17,19 +17,20 @@ public class Main
                 System.out.println("Błąd");
             }
         }
+        Scanner sc = new Scanner(System.in);
         while(true) {
-            String wybor;
+            String wybor = " ";
             int[] wylosowaneLiczby = new int[liczbaKosci];
             for (int i = 0; i < wylosowaneLiczby.length; i++) {
                 wylosowaneLiczby[i] = Liczby.Losuj();
                 System.out.println("Kostka " + i + ": " + wylosowaneLiczby[i]);
             }
             System.out.println("Liczba uzyskanych punktów: " + Liczby.LiczPunkty(wylosowaneLiczby));
-            do
+            while (!wybor.equals("t") && !wybor.equals("n"))
             {
                 System.out.println("Jeszcze raz? (t/n)");
-                wybor = scanner.nextLine();
-            }while (!wybor.equals("t") && !wybor.equals("n"));
+                wybor = sc.nextLine();
+            };
             if(wybor.equals("n"))
             {
                 break;
