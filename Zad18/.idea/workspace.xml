@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cfb561-c11b-4d28-968f-161dadd2d789" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/out/production/zadanie/Adres.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/out/production/zadanie/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/out/production/zadanie/Osoba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/src/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/src/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sprawdzian2/zadanie/zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Liczba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/Zad19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/src/Czlowiek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad19/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/Zad20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad20/src/Samochod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/NOWYodszyfrowany.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/Zad21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/odszyfrowany.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/src/Enigma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zad21/zaszyfrowany.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad19/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="99cfb561-c11b-4d28-968f-161dadd2d789" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,8 +32,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lojek/Desktop/Programowanie/Moje projekty/Java/Java-Exercises/Zad21",
     "onboarding.tips.debug.path": "C:/Users/3pb/Documents/RafalLojek/Java-Exercises/Zad18/src/Main.java"
   }
 }]]></component>
