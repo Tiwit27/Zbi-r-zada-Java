@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class Main
@@ -89,15 +92,12 @@ public class Main
     }
     public static void Wybor5(Samochod[] samochody)
     {
-        for(int i = 0; i < samochody.length - 1; i++) {
-            for (int j = 0; j < samochody.length - i - 1; j++) {
-                if (samochody[j].rokProdukcji > samochody[j + 1].rokProdukcji) {
-                    int temp = samochody[j].rokProdukcji;
-                    samochody[j].rokProdukcji = samochody[j + 1].rokProdukcji;
-                    samochody[j + 1].rokProdukcji = temp;
-                }
+        Arrays.sort(samochody, new Comparator<Samochod>() {
+            @Override
+            public int compare(Samochod s1, Samochod s2) {
+                return Double.compare(s1.pojemnoscSilnika, s2.pojemnoscSilnika);
             }
-        }
+        });
         for(Samochod samochod : samochody)
         {
             samochod.WyswietlInformacjeOSamochodzie();
