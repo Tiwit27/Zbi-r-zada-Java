@@ -1,37 +1,22 @@
-//import java.util.Scanner;
-//
-//public class Main {
-//    public static void main(String[] args) throws Exception {
-//        int[] pesel = new int[11];
-//        char[] peselChar;
-//        Scanner scanner = new Scanner(System.in);
-////        while(true)
-////        {
-//            try
-//            {
-//                System.out.print("Podaj PESEL:");
-//                for(int i = 0; i < pesel.length; i++)
-//                {
-//                    pesel[i] = scanner.;
-//                }
-////                if(peselChar.length != 11)
-////                {
-////                    throw new Exception("Błędna długosc PESELu");
-////                }
-////                else
-////                {
-////                    break;
-////                }
-//            }
-//            catch (Exception e)
-//            {
-//                System.out.println(e.getMessage());
-//            }
-//        //}
-//        for(int i = 0; i < pesel.length; i++)
-//        {
-//            //pesel[i] = peselChar[i] - 48;
-//            System.out.print(pesel[i]);
-//        }
-//    }
-//}
+public class Main {
+    public static void main(String[] args) {
+        int liczba = 100;
+        System.out.println("Liczba przed konwersją: " + liczba);
+        konwertuj(liczba);
+        System.out.println("Liczba po konwersji: " + liczba);
+
+        Liczba liczba2 = new Liczba();
+        liczba2.liczba = 100;
+        System.out.println("Obiekt liczby przed konwersją: " + liczba2.liczba);
+        konwertuj(liczba2);
+        System.out.println("Obiekt liczby po konwersji: " + liczba2.liczba);
+    }
+
+    public static void konwertuj(int liczba) {
+        liczba = -5;
+    }
+
+    public static void konwertuj(Liczba liczba2) {
+        liczba2.liczba = -5;
+    }
+}
